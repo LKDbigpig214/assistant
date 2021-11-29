@@ -1,0 +1,7 @@
+pydantic
+pyserial
+serial_asyncio
+wxpython
+wxasync
+ObjectListView
+logzero
