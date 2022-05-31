@@ -1,6 +1,7 @@
 pydantic
 pyserial
-serial_asyncio
+pyserial_asyncio
+pyyaml
 wxpython
 wxasync
 ObjectListView
