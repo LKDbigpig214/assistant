@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a86eb9c-a5f1-4de3-bd21-e237c100755a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ble_assistant/casemanage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ble_assistant/device.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ble_assistant/finder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ble_assistant/report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ble_assistant/testcase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ble_assistant/blenamedtuple/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ble_assistant/blenamedtuple/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="5a86eb9c-a5f1-4de3-bd21-e237c100755a" name="Changes" comment="2">
+      <change afterPath="$PROJECT_DIR$/ble_assistant/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ble_assistant/payload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ble_assistant/report.py" beforeDir="false" afterPath="$PROJECT_DIR$/ble_assistant/report.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +41,14 @@
       <option name="presentableId" value="Default" />
       <updated>1638195157914</updated>
     </task>
+    <task id="LOCAL-00001" summary="2">
+      <created>1655125849615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655125849615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -59,5 +62,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
 </project>

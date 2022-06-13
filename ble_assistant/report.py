@@ -142,8 +142,6 @@ class ExcelHandler(Handler):
         Close.
         :return:
         """
-        # .
-        # .
         if self.wb:
             self.wb.close()
         self.wb = None
