@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a86eb9c-a5f1-4de3-bd21-e237c100755a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ble_assistant/blenamedtuple/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ble_assistant/blenamedtuple/common.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ble_assistant/parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ble_assistant/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ble_assistant/casemanage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ble_assistant/device.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ble_assistant/finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ble_assistant/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ble_assistant/testcase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ble_assistant/blenamedtuple/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ble_assistant/blenamedtuple/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,5 +58,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

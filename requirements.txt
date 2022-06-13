@@ -2,6 +2,7 @@ pydantic
 pyserial
 pyserial_asyncio
 pyyaml
+openpyxl
 wxpython
 wxasync
 ObjectListView
