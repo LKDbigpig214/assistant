@@ -8,10 +8,12 @@ import pickle
 from pathlib import Path
 from collections import deque
 
+import wx
+
 
 AUTH_FILE = './auth.pkl'
 
-ID_OPEN_FILE = 101
+ID_OPEN_FILE = wx.NewIdRef()
 ID_SAVE_FILE = 102
 ID_OPEN_REPORT = 103
 ID_LOGIN = 104
